@@ -1,0 +1,27 @@
+Arnab Bhattacharjee
+abhattac@conncoll.edu
+asd
+2013
+I am in WAX Lab.
+12 2 2011 20 15 Comedy Show,12 12 2012 5 30 Flight to Cuba,
+When is the next show?,How's life?,Go DJ!,Whaduuup arnaaab!,
+dkerr@conncoll.edu,ssquire@conncoll.edu,
+
+Dillon Kerr
+dkerr@conncoll.edu
+password
+2015
+Hey!
+5 6 2011 4 15 Homework,
+Happy Thanksgiving!,Hello!,YO,
+abhattac@conncoll.edu,
+
+Stephen Squire
+ssquire@conncoll.edu
+tucker
+2012
+In class WOOHOO!
+12 12 2012 5 30 Flight to Cuba,
+Nothing much. I don't like finals.,
+abhattac@conncoll.edu,
+END
